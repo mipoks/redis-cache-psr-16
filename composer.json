@@ -1,0 +1,17 @@
+{
+    "name": "lab42/simplecache-redis",
+    "description": "This is implementation of PSR-16 with Redis",
+    "type": "library",
+    "authors": [
+        {
+            "name": "dankato",
+            "email": "d_zakiev@mail.ru"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "php" : ">=8",
+        "psr/simple-cache" : "3.*",
+        "ext-redis": "*"
+    }
+}
