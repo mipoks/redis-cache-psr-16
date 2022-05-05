@@ -1,10 +1,10 @@
 {
     "name": "lab42/simplecache-redis",
-    "description": "This is implementation of PSR-16 with Redis",
+    "description": "This is an implementation of PSR-16 with Redis",
     "type": "library",
     "authors": [
         {
-            "name": "dankato",
+            "name": "mipoks",
             "email": "d_zakiev@mail.ru"
         }
     ],
